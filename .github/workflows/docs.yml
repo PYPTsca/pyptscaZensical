@@ -1,4 +1,4 @@
-name: Documentation
+name: pyptscaZensical.github.io
 on:
   push:
     branches:
